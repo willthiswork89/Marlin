@@ -66,7 +66,7 @@
     #endif
 
     #ifndef ENCODER_PULSES_PER_STEP
-      #define ENCODER_PULSES_PER_STEP 4
+      #define ENCODER_PULSES_PER_STEP 1
     #endif
     #ifndef ENCODER_STEPS_PER_MENU_ITEM
       #define ENCODER_STEPS_PER_MENU_ITEM 1
@@ -87,7 +87,7 @@
     #define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
 
     #ifndef ENCODER_PULSES_PER_STEP
-      #define ENCODER_PULSES_PER_STEP 4
+      #define ENCODER_PULSES_PER_STEP 1
     #endif
     #ifndef ENCODER_STEPS_PER_MENU_ITEM
       #define ENCODER_STEPS_PER_MENU_ITEM 1
@@ -147,7 +147,7 @@
     #define LCD_USE_I2C_BUZZER //comment out to disable buzzer on LCD
 
     #ifndef ENCODER_PULSES_PER_STEP
-      #define ENCODER_PULSES_PER_STEP 4
+      #define ENCODER_PULSES_PER_STEP 1
     #endif
     #ifndef ENCODER_STEPS_PER_MENU_ITEM
       #define ENCODER_STEPS_PER_MENU_ITEM 1
